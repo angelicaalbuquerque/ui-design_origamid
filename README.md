@@ -89,9 +89,7 @@ Figma foi utilizado para a construção dos protótipos, onde foram criados dois
 
 ### Exercícios
 
-#### Módulo 2: Telas Mobile
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F8lwH8yv9wX88rrYDDTVZvQ%2FUiDesign-Origamid_Mod02%3Fnode-id%3D9%253A331" allowfullscreen></iframe>
+- [Módulo 2: Telas Mobile](https://www.figma.com/file/8lwH8yv9wX88rrYDDTVZvQ/UiDesign-Origamid_Mod02?node-id=9%3A331)
 
 ## 📬 Entre em contato!
 
