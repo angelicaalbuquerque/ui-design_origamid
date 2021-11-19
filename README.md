@@ -92,7 +92,7 @@ Figma foi utilizado para a construção dos protótipos, onde foram criados dois
 - [Módulo 2: Telas Mobile](https://www.figma.com/file/8lwH8yv9wX88rrYDDTVZvQ/0209-ferramenta-pratica?node-id=0%3A1)
 - [Módulo 3: Espaçamento](https://www.figma.com/file/95b9ggcne2otrSpNB86mny/0302-espaco-pratica?node-id=0%3A1)
 - [Módulo 3: Tipografia](https://www.figma.com/file/UbTPFTZTz0ADvQCCulCd9i/0306-tipografia-pratica?node-id=3%3A31)
-- [Módulo 3: Cores]()
+- [Módulo 3: Cores](https://www.figma.com/file/oF8ggZTskAnDH1U8wfpEmz/0311-cores-pratica?node-id=203%3A77)
 
 ## 📬 Entre em contato!
 
